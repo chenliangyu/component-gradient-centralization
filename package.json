@@ -1,14 +1,14 @@
 {
-  "name": "react-rollup-boilerplate",
-  "version": "2.0.0",
-  "description": "Boilerplate for writing React Libraries bundled with Rollup.js to commonJs and ES6 Modules and React Styleguidist",
-  "author": "Kai Hotz",
+  "name": "@chenliangyu/component-gradient-centralization",
+  "version": "1.0.0",
+  "description": "for component gradient centralization",
+  "author": "chenliangyu",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:KaiHotz/react-rollup-boilerplate.git"
+    "url": "git@github.com:chenliangyu/component-gradient-centralization.git"
   },
-  "homepage": "https://github.com/KaiHotz/react-rollup-boilerplate",
+  "homepage": "https://github.com/chenliangyu/component-gradient-centralization",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
